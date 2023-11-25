@@ -409,3 +409,44 @@ footer .icon i{
     bottom: -7px;
     right: 0;
 }
+
+/* media products 
+ */
+ @media (max-width:1000px){
+    .card-content p{
+       
+        font-size: .5rem !important;
+    }
+    .card-content h3{
+        font-size: .8rem !important;
+      margin-bottom:.3rem ;
+    }
+    .card-content a{
+        font-size: .7rem !important;
+    }
+
+    .our-services .card-content{
+       
+        min-height: 30rem;
+        
+    
+    }
+    .our-services img{
+        height: 20rem;
+        
+    }
+    .our-services .button a{
+       
+        font-weight: 700;
+        font-size: 1rem;
+        padding: 1rem  1rem;
+        border-radius: 1rem;
+    }
+ }
+
+ @media (max-width:800px){
+    .our-services img{
+        height: 15rem;
+        
+    }
+ }
