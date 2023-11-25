@@ -315,7 +315,7 @@ h2{
 }
 .our-services .card-content{
     background-color: var(--alt-color);
-    min-height: 60rem;
+    min-height: 55rem;
     transition: 1s all;
     border-radius: 2rem;
 
