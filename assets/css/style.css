@@ -445,15 +445,16 @@ footer .icon i{
         height: 20rem;
         
     }
-
+ }
  @media (max-width:1000px){
     .our-services img{
         height: 15rem;
         
-    }
+    }}
+
  @media (max-width:800px){
     .our-services img{
         height: 15rem;
         
     }
- }
+}
