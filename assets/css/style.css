@@ -426,10 +426,7 @@ footer .icon i{
     }
 
     .our-services .card-content{
-       
-        min-height: 30rem;
-        
-    
+        min-height: 20rem;
     }
     .our-services img{
         height: 20rem;
@@ -443,7 +440,17 @@ footer .icon i{
         border-radius: 1rem;
     }
  }
+ @media (max-width:1200px){
+    .our-services img{
+        height: 20rem;
+        
+    }
 
+ @media (max-width:1000px){
+    .our-services img{
+        height: 15rem;
+        
+    }
  @media (max-width:800px){
     .our-services img{
         height: 15rem;
